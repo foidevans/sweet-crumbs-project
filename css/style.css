@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 640px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+    line-height: 1.5;
+}
+
+#main-nav a,
+#contact-nav a {
+    margin-right: 1rem;
+}
+
+#main-nav img {
+    height: 32px;
+    vertical-align: middle;
+}
+
+.hero img {
+    max-width: 100%;
+    height: auto;
+}
+
+form label {
+    display: block;
+    margin-top: 0.75rem;
+}
+
+form input,
+form textarea {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0.4rem;
+}
+
+button {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+}
